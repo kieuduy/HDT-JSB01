@@ -1,0 +1,22 @@
+.ava
+{
+    text-align: center;
+}
+.avatar
+{
+    border-radius: 15px ;
+    border: 6px green;   
+}
+.face
+{
+    font-size: 60px;
+    color: darkcyan;
+    font-family: 'Patrick Hand', cursive;
+}
+.info
+{
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+    margin-left: 20px;
+    color: forestgreen;
+}

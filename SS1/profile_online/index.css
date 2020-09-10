@@ -1,0 +1,36 @@
+.profile-container
+{
+    position: relative;
+}
+
+.profile-container .aside-left
+{
+    background-color: rgb(34, 114, 139);
+    width: 40%;
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.p1
+{
+    font-size: 30px;
+}
+.info
+{
+    font-size: 30px;
+}
+.profile-container .aside-right
+{
+    width: 60%;
+    background-color: rgb(202, 202, 202);
+    display: inline-block;
+    right: 0px;
+    top: 0px;
+    height: 50px;
+    position: absolute;
+    font-size: 30px;
+    height: 930px;
+}

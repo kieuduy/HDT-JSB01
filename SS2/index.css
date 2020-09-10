@@ -1,0 +1,21 @@
+span{
+    border: 2px dotted red;
+}
+.inline
+{
+    display: inline;
+    background-color: red;
+    width: 1000px;
+    margin-left: 100px;
+}
+.block {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+.inline-block
+{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}

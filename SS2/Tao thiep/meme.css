@@ -1,0 +1,27 @@
+body{
+    background-color: skyblue;
+    width: 100%;
+    height: 100%;
+}
+hr{
+    width: 1400px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+}
+.vd
+{
+    border-radius: 30px;
+    border: seagreen solid 5px;
+}
+p{
+    font-size: 50px;
+}
+.img
+{
+    width: 550px;
+    height: 600px;
+    border-radius: 30px;
+    border: seagreen solid 5px;
+}
